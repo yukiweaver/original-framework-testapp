@@ -1,7 +1,7 @@
 <?php
 
 /**
- * AccountServiceクラス
+ * AccountServiceクラス 
  */
 class AccountService extends BaseService
 {
