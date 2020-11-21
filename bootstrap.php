@@ -19,7 +19,7 @@ $loader = new ClassLoader();
 $loader->registerDir(dirname(__FILE__) . '/core');
 $loader->registerDir(dirname(__FILE__) . '/models');
 $loader->registerDir(dirname(__FILE__) . '/validates');
-$loader->registerDir(dirname(__FILE__) . '/services');
+$loader->registerDir(dirname(__FILE__) . '/Services');
 $loader->registerDir(dirname(__FILE__) . '/utils');
 
 $loader->register();
