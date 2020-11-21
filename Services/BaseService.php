@@ -11,7 +11,7 @@ class BaseService
    */
   protected $dbManager;
 
-  public function __construct(DbManager $dbManager)
+  public function __construct($dbManager)
   {
     $this->dbManager = $dbManager;
   }
