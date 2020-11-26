@@ -4,6 +4,15 @@
  * 開発用（デバックモードがtrue）
  */
 
+// /Users/uenoyuuki/original-php-framework-apps/original-php-framework-app
+
+/** ローカルホストでブラウザ表示 **/
+
+// cdでwebまで移動し、ビルドインサーバ起動をする（$ php -S 127.0.0.1:8080）
+// localhost:8080/index_dev.php/account/signup で開ける
+
+/** ここまで **/
+
 /********** 開発ルール ここから **********/
 
 /** テンプレート系 **/ 
